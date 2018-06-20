@@ -22,6 +22,7 @@ A must-have app for those interested in travel. The app provides users with vari
   + [Share contact](#share-contact)
   + [Checklist](#checklist)
 + **[Push notification](#push-notification)**
++ **[Dependencies](#dependencies)**
 + **[Contact Us](#contact-us)**
 
 
@@ -90,6 +91,24 @@ To prevent users from missing their destination station while travelling by trai
 P
 
 <img src="./screenshots/notification.png" width="200px">
+
+
+## Dependencies
++ [okhttp](https://github.com/square/okhttp)
++ [CircleImageView](https://github.com/hdodenhof/CircleImageView)
++ [TedPicker](https://github.com/ParkSangGwon/TedPicker)
++ [android-pathview](https://github.com/geftimov/android-pathview)
++ [picasso](https://github.com/square/picasso)
++ [material](https://github.com/rey5137/material)
++ [RippleEffect](https://github.com/patrickpissurno/RippleEffect)
++ [twoway-view](https://github.com/lucasr/twoway-view)
++ [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
++ [datetimepicker](https://github.com/flavienlaurent/datetimepicker)
++ [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
++ [android-process-button](https://github.com/dmytrodanylyk/android-process-button)
++ [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
++ [butterknife](https://github.com/JakeWharton/butterknife)
+
 
 ## Contact Us
 
